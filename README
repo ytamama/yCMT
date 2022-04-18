@@ -1,0 +1,7 @@
+README for yCMT
+
+A repository of MATLAB codes used to analyze seismic data, collected in the Tajik Basin by SeismoTech Ltd., and prepare the inputs for moment tensor inversion using fociMT. 
+
+References:
+Kwiatek, G., Martínez‐Garzón, P. & Bohnhoff, M. (2016) HybridMT: A MATLAB/Shell Environment Package for Seismic Moment Tensor Inversion and Refinement. Seismological Research Letters, 87, 964–976. doi:10.1785/0220150251
+
